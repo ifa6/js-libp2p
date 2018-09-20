@@ -4,7 +4,23 @@ We try to frame our ongoing work using a process based on quarterly Objectives a
 
 ## 2018 Q4
 
-Writting in Progress
+**Debuggability and Stability**
+- error handling is done correctly and error codes are part of the API - @jacobheun
+- libp2p has a network visualization tool - @vasco-santos
+- js-libp2p has a daemon with a RPC API and a client library - @jacobheun
+- interop tests for go-libp2p and js-libp2p exist for core functionality - @jacobheun
+- a testbed exists and can test 50,000 libp2p nodes (browser and node) - @jacobheun
+- the testbed can run large scale tests for the DHT and Pubsub - @vasco-santos
+
+**Connectivity Magic is better and more reliable**
+- The DHT is enabled by default in js-ipfs and is interoperable with go - @vasco-santos
+- IPNS works over DHT and is interoperable with go - @vasco-santos
+- Nat traversal Spec is ready for js-libp2p to implement - @jacobheun
+
+**Libp2p is seen as the go to p2p networking stack**
+- Usage examples exist for the key modules of libp2p - @jacobheun
+
+Once these OKRs are finished, you will be able to find them on the [2018 Q4 libp2p OKRs Spreadsheet](https://docs.google.com/spreadsheets/d/1BYwmbVicgo6_tOHAbgiUXWge8Ej0qR1M_gAUulazmrg/edit#gid=1241853194)
 
 ## 2018 Q3
 
