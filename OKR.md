@@ -19,7 +19,7 @@ We try to frame our ongoing work using a process based on quarterly Objectives a
 - Nat traversal Spec is ready for js-libp2p to implement - @jacobheun
 
 **Libp2p is seen as the go to p2p networking stack**
-- usage examples exist for the key modules of libp2p - @jacobheun
+- Usage examples and proper documentation exist for the key modules of libp2p - @jacobheun
 
 Once these OKRs are finished, you will be able to find them on the [2018 Q4 libp2p OKRs Spreadsheet](https://docs.google.com/spreadsheets/d/1BYwmbVicgo6_tOHAbgiUXWge8Ej0qR1M_gAUulazmrg/edit#gid=1241853194)
 
