@@ -6,9 +6,9 @@ We try to frame our ongoing work using a process based on quarterly Objectives a
 
 **Debuggability and Stability**
 - error handling is done correctly and error codes are part of the API - @jacobheun
-- libp2p has a network visualization tool - @vasco-santos
+- libp2p has a network visualization tool - @jacobheun
 - js-libp2p has a daemon with a RPC API and a client library - @jacobheun
-- interop tests for go-libp2p and js-libp2p exist for core functionality - @jacobheun
+- interop tests for go-libp2p and js-libp2p exist for core functionality - @vasco-santos
 - a testbed exists and can test 50,000 libp2p nodes (browser and node) - @jacobheun
 - the testbed can run large scale tests for the DHT and Pubsub - @vasco-santos
 
