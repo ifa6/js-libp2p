@@ -20,6 +20,7 @@ We try to frame our ongoing work using a process based on quarterly Objectives a
 
 **Libp2p is seen as the go to p2p networking stack**
 - usage examples exist for the key modules of libp2p - @jacobheun
+- onboard 3 new contributors to the js-libp2p team - @mgoelzer
 
 Once these OKRs are finished, you will be able to find them on the [2018 Q4 libp2p OKRs Spreadsheet](https://docs.google.com/spreadsheets/d/1BYwmbVicgo6_tOHAbgiUXWge8Ej0qR1M_gAUulazmrg/edit#gid=1241853194)
 
